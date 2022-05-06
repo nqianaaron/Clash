@@ -17,3 +17,5 @@
 #🔰 节点选择,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global_Domain.list
 DIRECT,[]GEOIP,CN
 🐟 漏网之鱼,[]FINAL
+💫 Dropbox,https://github.com/iErics/Clash/blob/main/rule/dropbox.list
+🐶 Temp-Mail,https://github.com/iErics/Clash/blob/main/rule/temp-mail.list
