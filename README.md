@@ -6,7 +6,7 @@
 
 2、填入订阅链接
 
-3、远程配置填写为 https://raw.githubusercontent.com/123456qewret/Clash/main/output 
+3、远程配置填写为 https://raw.githubusercontent.com/iErics/Clash/main/output 
 
 4、选择一个喜欢的后端
 
