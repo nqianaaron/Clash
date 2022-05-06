@@ -1,8 +1,7 @@
-rule=!!import:https://github.com/iErics/Clash/main/emoji
-https://github.com/iErics/Clash/main/emoji
-ruleset=!!import:https://github.com/iErics/Clash/main/rules
+rule=!!import:https://raw.githubusercontent.com/iErics/Clash/main/emoji
+ruleset=!!import:https://raw.githubusercontent.com/iErics/Clash/main/rules
 rename=!!import:https://raw.githubusercontent.com/123456qewret/Clash/main/rename
-custom_proxy_group=!!import:https://github.com/iErics/Clash/main/groups
+custom_proxy_group=!!import:https://raw.githubusercontent.com/iErics/Clash/main/groups
 add_emoji=true
 remove_old_emoji=false
 exclude_remarks=(剩余|过期)
