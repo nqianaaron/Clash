@@ -1,0 +1,9 @@
+rule=!!import:https://raw.githubusercontent.com/123456qewret/Clash/main/emoji
+ruleset=!!import:https://raw.githubusercontent.com/123456qewret/Clash/main/rules
+rename=!!import:https://raw.githubusercontent.com/123456qewret/Clash/main/rename
+custom_proxy_group=!!import:https://raw.githubusercontent.com/123456qewret/Clash/main/groups
+add_emoji=false
+remove_old_emoji=false
+exclude_remarks=(剩余|过期)
+enable_rule_generator=true
+overwrite_original_rules=true
