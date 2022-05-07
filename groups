@@ -1,3 +1,4 @@
+🌏 Global`select`(.)
 🍻 BiliBili`select`[]DIRECT`(香港|HK|TW|台湾|澳门)
 🍻 BiliBiliItl`select`[]🍻 BiliBili`(香港|HK|TW|台湾|澳门)
 🐰 国内服务`select`[]DIRECT
@@ -10,5 +11,4 @@
 🎏 苹果服务`select`[]DIRECT`(.)
 💫 Dropbox`select`(x|Oracle)
 🐶 Temp-Mail`select`(x|Oracle)
-🌏 Global`select`(.)
 🐬 漏网之鱼`select`[]DIRECT`(.)
