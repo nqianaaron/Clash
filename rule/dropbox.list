@@ -2,3 +2,5 @@ DOMAIN-SUFFIX,dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,bolt.dropbox.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,dropbox-api.arkoselabs.com
+DOMAIN-SUFFIX,cfl.dropboxstatic.com
