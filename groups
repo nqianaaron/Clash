@@ -1,18 +1,14 @@
-🇯🇵 日本`select`(日本|台)
-🇭🇰 香港`select`(^(?!.*?游戏).*(港|中港|香港|HK))
-🇨🇳 台湾`select`(台|TW)
-🇸🇬 新加坡`select`(SG|狮城|坡)
-🇺🇲 美国`select`(美|中美|沪美|US|纽约|波特兰|旧金山|圣何塞)
-📺 Bilibili`select`[]DIRECT`[]🇭🇰 香港`[]🇨🇳 台湾`[]🌍 其他地区
-# 📺 YouTube`select`[]🇭🇰 香港`[]🇯🇵 日本`[]🇺🇲 美国`[]🇸🇬 新加坡`[]🇨🇳 台湾`[]🔰 节点选择
-🎥 NETFLIX`select`[]🇭🇰 香港`[]🇸🇬 新加坡`[]🇯🇵 日本`[]🇨🇳 台湾`[]🌍 其他地区`[]🔰 节点选择
-🎮 Steam`select`[]DIRECT`[]🇭🇰 香港`[]🇺🇲 美国`[]🛒 低价购物
-#🎮 Game`select`(游戏)
-🛒 低价购物`select`(^(?!.*?(白俄罗斯)).*(阿根廷|土耳其|俄罗斯|菲律宾|巴西|购物).*)
-🌍 其他地区`select`(^(?!.*?(游戏|港|台湾|狮城|坡|日本|美国|阿根廷|土耳其|俄罗斯|菲律宾|巴西|购物)).*$|^.*白俄罗斯.*$)
-📲 电报信息`select`[]🇸🇬 新加坡`[]🇭🇰 香港`[]🇺🇲 美国`[]🔰 节点选择
-🍎 苹果服务`select`[]DIRECT`[]🇭🇰 香港`[]🇯🇵 日本`[]🇺🇲 美国`[]🇨🇳 台湾`[]🔰 节点选择
-🔰 节点选择`select`[]🇯🇵 日本`[]🇭🇰 香港`[]🇨🇳 台湾`[]🇸🇬 新加坡`[]🇺🇲 美国`[]🛒 低价购物`[]🌍 其他地区`[]🎮 Steam
-🐟 漏网之鱼`select`[]DIRECT`[]🔰 节点选择
+🍻 BiliBili`select`[]🤔 DIRECT
+🍻 BiliBiliItl`select`(台湾)
+🐰 国内媒体`select`[]🤔 DIRECT
+✨ YouTube`select`(.)
+🍇 国外媒体`select`(.)
+🍑 谷歌云盘`select`(.)
+🔥 谷歌服务`select`(.)
+🍭 OneDrive`select`(.)
+🐻 微软服务`select`[]🤔 DIRECT`(.)
+🎏 苹果服务`select`[]🤔 DIRECT`(.)
 💫 Dropbox`select`(x|Oracle)
-🐶 Temp-Mail`select`(.)
+🐶 Temp-Mail`select`(x|Oracle)
+🌏 Global`select`(.)
+🐬 漏网之鱼`select`[]🤔 DIRECT`(.)
