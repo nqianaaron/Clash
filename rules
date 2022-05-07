@@ -12,5 +12,5 @@
 🐶 Temp-Mail,https://raw.githubusercontent.com/iErics/Clash/main/rule/temp-mail.list
 🌏 Global,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global.list
 🌏 Global,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global_Domain.list
-🤔 DIRECT,[]GEOIP,CN
+DIRECT,[]GEOIP,CN
 🐬 漏网之鱼,[]FINAL
