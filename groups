@@ -12,6 +12,6 @@
 💫 Dropbox`select`(^(?!.*?英国)^(?!.*?南非).*(x|Oracle|Korea))
 🐶 Temp-Mail`select`(x|Oracle|Korea)
 🎮 Steam`select`(.)
-🐶 JingDong`select`(Oracle|Korea)
+🐶 JingDong`select`[]DIRECT`(Oracle|Korea)
 📧 Outlook`select`[]DIRECT`(x|Oracle|Korea)
 🐬 漏网之鱼`select`[]DIRECT`(.)
