@@ -9,7 +9,7 @@
 🍭 OneDrive`select`[]DIRECT`(.)
 🐻 微软服务`select`[]DIRECT`(.)
 🎏 苹果服务`select`[]DIRECT`(.)
-💫 Dropbox`select`(^(?!.*?英国)^(?!.*?南非)^(?!.*?UK).*(x|Oracle|Korea|01))
+💫 Dropbox`select`(^(?!.*?(英国|沙特阿拉伯|10x))^(?!.*?南非)^(?!.*?UK).*(x|Oracle|Korea|01))
 🐶 Temp-Mail`select`(x|Oracle|Korea)
 🎮 Steam`select`(.)
 🐶 JingDong`select`[]DIRECT`(Oracle|Korea)
