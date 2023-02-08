@@ -1,3 +1,11 @@
-- DOMAIN-KEYWORD,openai
-- DOMAIN-SUFFIX,openai.com
-- DOMAIN-SUFFIX,sehuatang.net
+DOMAIN-SUFFIX,bolt.dropbox.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,cfl.dropboxstatic.com
+DOMAIN-SUFFIX,dropbox-api.arkoselabs.com
+DOMAIN-SUFFIX,dropboxfingerprintjs.com
+DOMAIN-SUFFIX,dropboxcaptcha.com
+DOMAIN-SUFFIX,tls-use1.fpapi.io
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,arkoselabs
