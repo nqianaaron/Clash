@@ -1,6 +1,6 @@
 🌏 Global`select`(.)
 💫 Dropbox`select`(^(?!.*?(英国|沙特阿拉伯|南非|UK|10x|5x|3x|2x)).*(x|Oracle|Korea|01))
-🐶 Temp-Mail`select`(^(?!.*?(x )).*(HK01|SG01|US01|KR01|TH01|FR01|GM01|BR01|MY01|Seoul))
+🐶 Temp-Mail`select`(^(?!.*?(x )).*(HK01|SG01|US01|KR01|TH01|FR01|GM01|BR01|MY01|Seoul|专线|原生))
 🌈 Emby`select`[]DIRECT`(^(?!.*?(x)).*(Oracle|Korea|01))
 📧 Outlook`select`[]DIRECT`(x|Oracle|Korea)
 🦈 自定义`select`(^(?!.*?(x)).*(Oracle|Korea|01))
