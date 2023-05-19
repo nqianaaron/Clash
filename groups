@@ -3,7 +3,7 @@
 🐶 Temp-Mail`select`(^(?!.*?(x )).*(HK01|SG01|US01|KR01|TH01|FR01|GM01|BR01|MY01|Seoul))
 🌈 Emby`select`[]DIRECT`(^(?!.*?(x)).*(Oracle|Korea|01))
 📧 Outlook`select`[]DIRECT`(x|Oracle|Korea)
-🦈 自定义`select`(^(?!.*?(x)).*(Oracle|Korea|01))
+🦈 自定义`select`(.)
 🐬 漏网之鱼`select`[]DIRECT`(.)
 🍻 BiliBili`select`[]DIRECT`(香港|HK|TW|台湾|澳门)
 🍻 BiliBiliItl`select`[]🍻 BiliBili`(香港|HK|TW|台湾|澳门)
