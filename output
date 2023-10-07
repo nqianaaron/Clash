@@ -1,9 +1,9 @@
-rule=!!import:https://raw.githubusercontent.com/iErics/Clash/main/emoji
-ruleset=!!import:https://raw.githubusercontent.com/iErics/Clash/main/rules
-rename=!!import:https://raw.githubusercontent.com/iErics/Clash/main/rename
-custom_proxy_group=!!import:https://raw.githubusercontent.com/iErics/Clash/main/groups
-clash_rule_base=!!import:https://raw.githubusercontent.com/iErics/Clash/main/config.yml
-clash.dns.port=!!import:https://raw.githubusercontent.com/iErics/Clash/main/dns
+rule=!!import:https://raw.githubusercontent.com/nqianaaron/Clash/main/emoji
+ruleset=!!import:https://raw.githubusercontent.com/nqianaaron/Clash/main/rules
+rename=!!import:https://raw.githubusercontent.com/nqianaaron/Clash/main/rename
+custom_proxy_group=!!import:https://raw.githubusercontent.com/nqianaaron/Clash/main/groups
+clash_rule_base=!!import:https://raw.githubusercontent.com/nqianaaron/Clash/main/config.yml
+clash.dns.port=!!import:https://raw.githubusercontent.com/nqianaaron/Clash/main/dns
 add_emoji=true
 remove_old_emoji=true
 exclude_remarks=(剩余|过期)
